@@ -44,10 +44,5 @@
 
 ---
 
-### 🤝 Connect With Us
 
-* 🔗 **Email:** blackxmask.official@gmail.com
-* 🚀 **Focus:** ML + Cybersecurity + Adversarial AI
-
----
 <p align="center">🛡️ <i>Securing the future of intelligence.</i></p>
