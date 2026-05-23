@@ -9,14 +9,14 @@
  
 
   <!-- DESCRIPTION -->
-  <p align="center" style="max-width: 600px;">
-    Welcome to <b>blackXmask</b> a cutting-edge community where Machine Learning meets Cybersecurity. 
-    We explore adversarial AI, LLM safety, prompt injection defense, and next-gen secure intelligence systems.
-  </p>
-  
-  <p align="center" style="max-width: 600px;">
-    Our mission is to build a future where AI systems are not only powerful, but also resilient, explainable, and secure against real-world threats.
-  </p>
+<p align="center" style="max-width: 600px;">
+  Welcome to <b>blackXmask</b>, a project portfolio and tech hub where academic computer science meets real-world application. I explore diverse software engineering solutions, university lab projects, full-stack tools, and intelligent machine learning models.
+</p>
+
+<p align="center" style="max-width: 600px;">
+  My goal is to showcase complete, end-to-end technical solutions from secure desktop tools and database-integrated applications to predictive ML pipelines built to solve modern digital problems.
+</p>
+
 
 </div>
 
